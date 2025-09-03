@@ -1,0 +1,6 @@
+# Ignore MATLAB Temp and Data Files
+
+*.asv
+*.m~
+*.mat
+
